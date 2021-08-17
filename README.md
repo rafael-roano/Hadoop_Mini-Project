@@ -1,4 +1,4 @@
-# Hadoop Mini Project - Post-Sale Automobile Report
+# Hadoop Mini Project - Automobile Post-sales Report Report
 
 This is a basic MapReduce program that assists an automobile tracking platform to generate a report of one of their business key metrics.
 
